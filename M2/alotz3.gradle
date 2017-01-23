@@ -27,6 +27,7 @@ jar {
 }
 
 dependencies{
+	//compile files('libs/resources.jar')
     compile fileTree(dir: 'lib', include: '*.jar')
 }
 
