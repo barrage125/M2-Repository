@@ -35,6 +35,7 @@ public class Person4 {
       for (char c : input.toCharArray()) {
         s = s + (c+1);
       }
+      return s;
     }
 
     /**
