@@ -34,7 +34,7 @@ public class Person5 {
 	  int length = answer.length();
 
 	  for (int i = length - 1; i <= 0; i--) {
-		answer += input.charAt(i);
+		//answer += input.charAt(i);
 	  }
 	
 	  return answer;
